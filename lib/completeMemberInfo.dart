@@ -42,6 +42,17 @@ class AllMembers {
         linkedInURL:
             'https://www.linkedin.com/in/sarvesh-nath-tiwari-5575a218a',
         status: 'Flutter Developer'),
+         Member(
+        name: 'Onkar Tripathi',
+        year: '3rd',
+        department: 'Computer Science',
+        profilePic: 'assets/profilesPic/onkar.jpeg',
+        aboutMe:
+            'A web developer and competitive programming enthusiast. I love data structures and algorithms.',
+        facebookURL: 'https://www.facebook.com/onkartripathi/',
+        githubURL: 'https://github.com/onkartripathi5',
+        linkedInURL: 'https://www.linkedin.com/in/onkartripathi/',
+        status: 'Developer'),
     Member(
         name: 'Nandeesh Gupta',
         year: '3rd',
